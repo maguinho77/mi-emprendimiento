@@ -1,4 +1,4 @@
-# Brief — Piedra Viva
+# Brief — For Magos
 
 > Guía: [Brief](../evaluacion/guias/fase-1-requerimientos/01-brief.md)
 
