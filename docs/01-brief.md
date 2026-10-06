@@ -1,10 +1,10 @@
-# Brief — Piedra Viva
+# Brief — For Magos
 
 > Guía: [Brief](../evaluacion/guias/fase-1-requerimientos/01-brief.md)
 
 ## El emprendimiento
 
-Piedra Viva es un emprendimiento "ficticio" perteneciente al rubro de la "construcción y terminaciones", dedicado a la venta y distribución de baldosas (microvibradas, rústicas y de exterior) y guardapolvos de la marca Budnik, además de ofrecer el servicio integral de instalación y pulido. Gestiona sus cotizaciones y atención de proyectos 100% online a través de WhatsApp y correo electrónico.
+For Magos es un emprendimiento "ficticio" perteneciente al rubro de la "construcción y terminaciones", dedicado a la venta y distribución de baldosas (microvibradas, rústicas y de exterior) y guardapolvos de la marca Budnik, además de ofrecer el servicio integral de instalación y pulido. Gestiona sus cotizaciones y atención de proyectos 100% online a través de WhatsApp y correo electrónico.
 
 ## Propuesta de valor
 
