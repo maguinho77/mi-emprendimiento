@@ -1,34 +1,51 @@
-# Arquitectura de la información — [Nombre del emprendimiento]
-
-> Guía: [Arquitectura de la información](../evaluacion/guias/fase-1-requerimientos/05-arquitectura.md)
+# Arquitectura de la información — For Magos
 
 ## Mapa de sitio
-
-<!-- Incluye landing, blog, tienda y las páginas obligatorias:
-contacto, preguntas frecuentes, términos, privacidad y 404. -->
 
 ```text
 Inicio (landing)
 ├── Tienda
+│ ├── Clubes
+│ ├── Selecciones
+│ ├── Camisetas retro
+│ ├── Accesorios
+│ └── Ofertas
+├── Producto
+├── Carrito
 ├── Blog
-└── ...
-```
+│ ├── Novedades
+│ ├── Historia del fútbol
+│ └── Camisetas icónicas
+├── Contacto
+├── Preguntas frecuentes
+├── Términos y condiciones
+├── Privacidad
+└── Página 404
 
 ## User flows
 
-> Guía: [User flow](../evaluacion/guias/fase-1-requerimientos/06-user-flow.md)
+>Inicio
+→ Tienda
+→ Seleccionar categoría
+→ Buscar o filtrar
+→ Seleccionar producto
+→ Ver detalles
+→ Seleccionar talla
+→ Agregar al carrito
+→ Revisar carrito
+→ Finalizar compra
 
-### Flujo 1: compra
-
-```text
-
-```
 
 ### Flujo 2: contenido
 
-```text
-
-```
+Inicio
+→ Blog
+→ Seleccionar categoría
+→ Seleccionar artículo
+→ Leer contenido
+→ Ver producto relacionado
+→ Ir al producto
+→ Agregar al carrito
 
 ## Categorías
 
