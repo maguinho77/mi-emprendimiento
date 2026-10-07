@@ -143,20 +143,6 @@ For Magos es una tienda online especializada en camisetas de fútbol,
 camisetas históricas, selecciones, clubes y accesorios relacionados
 con la cultura futbolera.
 
-La marca debe sentirse moderna, urbana, deportiva y premium.
-
-La página debe transmitir la sensación de entrar a una tienda creada
-por fanáticos del fútbol para fanáticos del fútbol.
-
-La estética general debe ser oscura y elegante, utilizando negro carbón
-como color dominante, blanco para mantener una lectura clara y dorado
-suave como color de acento.
-
-El dorado NO debe dominar la interfaz. Debe utilizarse estratégicamente
-para destacar botones, precios, promociones, categorías y pequeños
-detalles visuales.
-
-El protagonista siempre debe ser el producto.
 
 Palabras clave de la identidad visual:
 
