@@ -1,33 +1,24 @@
-# Objetivos del usuario y funcionalidades — [Nombre del emprendimiento]
-
-> Guía: [Objetivos del usuario y funcionalidades](../evaluacion/guias/fase-1-requerimientos/03-funcionalidades.md)
+# Objetivos del usuario y funcionalidades — For Magos
 
 ## Objetivos de la proto-persona en el sitio
 
-<!-- Qué quiere lograr tu proto-persona cuando entra a tu sitio.
-Revisa sus necesidades y frustraciones: ahí suelen estar los objetivos. -->
-
-1.
-2.
-3.
+1. Encontrar rápidamente camisetas y accesorios de sus equipos o selecciones favoritas.
+2. Revisar información clara del producto, como fotografías, precio, talla y disponibilidad.
+3. Comprar de manera simple, rápida y confiable desde cualquier dispositivo.
 
 ## Funcionalidades
 
-<!-- Incluye las 7 funcionalidades base y al menos 5 propias.
-Redáctalas como "El usuario debe poder...".
-Prioridad: Imprescindible / Deseable / Futuro. -->
-
 | Proto-persona | Objetivo | Funcionalidad | Tipo | Prioridad |
 |---|---|---|---|---|
-| | | El usuario debe poder dejar sus datos para... | Base (landing) | |
-| | | El usuario debe poder navegar los artículos por categoría... | Base (blog) | |
-| | | El usuario debe poder comentar un artículo | Base (blog) | |
-| | | El usuario debe poder compartir un artículo en... | Base (blog) | |
-| | | El usuario debe poder buscar productos por... | Base (tienda) | |
-| | | El usuario debe poder filtrar productos por... | Base (tienda) | |
-| | | El usuario debe poder ver el detalle de un producto, elegir... y agregarlo al carrito | Base (tienda) | |
-| | | | Propia | |
-| | | | Propia | |
-| | | | Propia | |
-| | | | Propia | |
-| | | | Propia | |
+| Matías | Recibir novedades | El usuario debe poder dejar sus datos para recibir novedades y promociones. | Base (landing) | Deseable |
+| Matías | Explorar contenido | El usuario debe poder navegar artículos o novedades por categoría. | Base (blog) | Futuro |
+| Matías | Interactuar | El usuario debe poder comentar un artículo. | Base (blog) | Futuro |
+| Matías | Compartir | El usuario debe poder compartir artículos en redes sociales. | Base (blog) | Futuro |
+| Matías | Encontrar productos | El usuario debe poder buscar camisetas y accesorios por nombre o equipo. | Base (tienda) | Imprescindible |
+| Matías | Encontrar productos | El usuario debe poder filtrar productos por club, selección, talla o categoría. | Base (tienda) | Imprescindible |
+| Matías | Comprar | El usuario debe poder ver el detalle, elegir talla y agregar un producto al carrito. | Base (tienda) | Imprescindible |
+| Matías | Conocer disponibilidad | El usuario debe poder ver claramente si un producto tiene stock disponible. | Propia | Imprescindible |
+| Matías | Explorar camisetas | El usuario debe poder navegar entre clubes, selecciones, retro y accesorios. | Propia | Imprescindible |
+| Matías | Ver promociones | El usuario debe poder identificar productos en oferta mediante etiquetas visibles. | Propia | Deseable |
+| Matías | Contactar | El usuario debe poder contactar directamente a For Magos ante dudas sobre un producto. | Propia | Deseable |
+| Matías | Comprar fácilmente | El usuario debe poder acceder al carrito y continuar con su compra de forma sencilla. | Propia | Imprescindible |
