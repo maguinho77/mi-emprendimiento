@@ -1,6 +1,7 @@
 # Proto-persona — For Magos
 
 ## Proto-persona principal
+![Matías - Proto-persona de For Magos](img/matias-proto-persona.png)
 
 **Matías, 22 años.** Estudiante universitario y fanático del fútbol.
 
