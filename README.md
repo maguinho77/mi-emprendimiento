@@ -1,10 +1,7 @@
 # For Magos — Sitio web
 
-Tienda online de camisetas de fútbol actuales y retro de colección (clubes, selecciones y accesorios), con una estética urbana y premium en negro carbón y dorado. Emprendimiento ficticio.
+Tienda online de camisetas de fútbol actuales y retro de colección (clubes, selecciones y accesorios), con una estética urbana y premium en negro carbón y dorado.
 Incluye landing, blog y prototipo de tienda online.
-
-> Proyecto de la **Evaluación Parcial 02 — Sitios Web y Landing Pages (DUOC)**.
-> Instrucciones y guías: [evaluacion/](evaluacion/README.md)
 
 ## Documentación
 
