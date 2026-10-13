@@ -7,9 +7,10 @@
 | Construcción | HTML + CSS | Crear la estructura y el diseño visual del sitio web. |
 | Versionado | Git y GitHub | Guardar y controlar los cambios realizados en el proyecto. |
 | Publicación | GitHub Pages | Publicar el prototipo web de For Magos. |
-| Diseño | Whimsical | Crear wireframes y organizar la estructura del sitio. |
+| Diseño | Whimsical | Moodboard, calco de componentes y wireframes. |
 | Diseño | Google Stitch | Diseñar y generar el prototipo visual de la página. |
 | IA | Gemini | Apoyar la creación y mejora de contenido y código. |
+| IA | Claude | Apoyar la redacción de specs, el moodboard en Whimsical y la validación del `DESIGN.md`. |
 | Editor | Antigravity | Editar y organizar los archivos y código del proyecto. |
 
 ## Qué es funcional y qué es prototipo
@@ -24,6 +25,8 @@
 | Carrito de compras | Prototipo visual |
 | Proceso de pago | Prototipo visual |
 | Formulario de contacto | Prototipo visual |
+| Registro al newsletter | Prototipo visual (no envía correos) |
+| Comentarios del blog | Prototipo visual |
 
 ## Integraciones para una versión real
 
